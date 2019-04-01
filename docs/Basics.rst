@@ -1,7 +1,7 @@
 .. _Getting started with classEx:
 
 ======
-Getting started with classEx
+Getting started with classEx@school
 ======
 
 What you need
