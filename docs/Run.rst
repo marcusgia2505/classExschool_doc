@@ -1,6 +1,34 @@
-=====================
-Run ready-made games
-=====================
+===========
+LehrerInnen
+===========
+
+Hier bekommen Sie einen kurzen Überblick über die Möglichkeiten, die Ihnen als LehrerIn zur Verfügung stehen. Detailliertere Informationen finden Sie auf den Folgeseiten. 
+
+
+.. raw:: html
+
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="350" src="https://www.youtube.com/watch?v=wvTQYDS6PPc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+.. raw:: latex
+
+    Sie finden ein kurzes Einführungsvideo unter \url{https://www.youtube.com/watch?v=wvTQYDS6PPc}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 In the overview mode in classEx, you can find a set of ready-made games which can be played directly in the lecture mode. The interaction between the lecturer and the participants takes place in the lecture mode. The lecturer's browser is usually projected to a wall. Games are started and terminated in the lecture mode and the results are also displayed in this mode.  Just start a game by pressing "play" and open some test participants by clicking at the test participant symbol |pic_testparticipant| in the top navigation bar. Test participants open in a new tab of the browser.
 
