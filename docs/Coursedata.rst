@@ -29,7 +29,7 @@ Logout
 
 Schülerinnen und Schüler haben keinen sichtbaren Logout-Button, um zu vermeiden, dass sie sich absichtlich oder unabsichtlich während des Spiels ausloggen. Sollten Sie einen Teilnehmer oder eine Teilnehmerin dennoch ausloggen wollen (z.B. wegen eines technischen Problems) können sie im Bildschirm des Schülers oder der Schülerin auf das classEx-Logo klicken. Dann erscheint ihre interne IP zusammen mit zwei Symbolen. Das rechte zeigt die Internetverbingung an, über das linke können sich SchülerInnen ausloggen.
 
-Lehrerinnen und Lehrer können alle Schülerinnen und Schüler, die zur Zeit eingeloggt sind, ausloggen, indem sie in ihren Kursdaten auf deb roten "Alle Teilnehmer ausloggen"-Button drücken.
+Lehrerinnen und Lehrer können alle Schülerinnen und Schüler, die zur Zeit eingeloggt sind, ausloggen, indem sie in ihren Kursdaten auf deb roten "Alle Teilnehmer ausloggen"-Knopf drücken.
 
 
 Datenverbrauch
@@ -42,3 +42,31 @@ Bildschirm aktualisieren
 ========================
 
 Die Bildschirme der Schülerinnen und Schüler werden automatisch aktualisiert, sobald ihr Spielpartner oder ihre Spielpartnerin eine Entscheidung getroffen hat oder die Lehrerin bzw. der Lehrer eine neue Runde gestartet hat. Somit können Schülerinnen und Schüler einfach warten, bis es weitergeht und brauchen nicht ständig ihren Bildschirm aktualisieren. 
+
+
+Entscheidungen treffen
+======================
+
+Wenn ein Spiel gestartet wurde, wird den Schülerinnen und Schülern ihre Rolle zusammen mit ihrer ersten Entscheidungsmöglichkeit angezeigt. 
+Rollen werden durch verschiedenfarbige Figuren dargestellt wie beispielsweise:
+.. image:: _static/Role1.JPG
+
+Es sind unter anderem folgende Entscheidungsmechanismen möglich:
+
+Binäre Entscheidung
+~~~~~~~~~~~~~~~~~~~
+..image:: _/static/PD_Entscheidung.PNG
+
+Durch Auswählen einer der beiden Optionen, wird die Entscheidung gespeichert. 
+
+Numerisches Eingabefeld
+~~~~~~~~~~~~~~~~~~~~~
+
+..image:: _/static/Numerisches_Eingabefeld.PNG
+
+Numerische Eingaben erfolgen, indem eine Zahl eingetragen wird und dann der "Eingaben absenden" Knopf gedrückt wird. Falls die Eingabe ein von der Lehrerin oder dem Lehrer vorgegebenes Maximum oder Minimum über- bzw. unterschreitet, muss die Eingabe wiederholt werden. Neben dem Maximum und dem Minimum können auch die Nachkommastellen spezifiziert werden und es kann festgelegt werden, ob die Eingabe verpflichtend ist.
+
+Weitere Eingabefelder
+~~~~~~~~~~~~~~~~~~~~~
+
+Neben den beschriebenen Eingabefeldern gibt es auch noch Texteingabefelder, Single und Multiple Choice Auswahllisten, Checkboxen.
