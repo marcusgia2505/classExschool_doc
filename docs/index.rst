@@ -4,24 +4,30 @@
    contain the root `toctree` directive.
 
 =====================================
-classEx documentation
+classEx@school Handbuch
 =====================================
 
-.. figure:: _static/introduction/overview.png
-   :alt:  300px
 
-Welcome to the documentation of classEx. In this documentation you can find all information on how to use classEx. General information on classEx can be found at https://classEx.de.
+======
+Was ist classEx@school?
+======
 
-.. note:: You can also download a `pdf version`_ of the documentation. Please note that we change the documentation from time to time. So you might check from time if your PDF is still up-to-date. For this just compare the release version. Current release is 1.0.
+Das Projekt classEx@school arbeitet darauf hin, eine Brücke zwischen klassischen Lehrformen und den Innovationen des virtuellen Lernens zu schlagen.
 
-.. _pdf version: https://readthedocs.org/projects/classex-doc/downloads/pdf/latest/
+classEx ist eine Webanwendung mit der SchülerInnen über Smartphones oder Notebooks im Unterricht an interaktiven Experimenten und Umfragen teilnehmen können. Lehrende erhalten sofort eine graphische Auswertung und Präsentation der Ergebnisse.
 
-classEx is an online tool to run interactive experiments and surveys. It is directed both towards usage in classroom and lectures as well as for running in experiments with a group of people located in one place (cinema, public viewing event,...). Participants log in with their mobile device (smartphone or notebook) and can participate interactively in the lecture. They only need a standard browser and an internet connection. Results are shown instantly on the presentation screen of the lecturer with intuitive graphs. Quizzes and spontaneous tests can be integrated into lectures or presentations of all academic disciplines. classEx can be used in political science to simulate polls or elections, psychologists can test the effect of roles and scenarios and economists can assess the strategic interaction in markets and the whole of behavioral economics.
+In interaktiven Experimenten können Schülerinnen und Schüler eigene Entscheidungen treffen und dadurch ökonomische Modelle hautnah erleben und einen einfacheren Zugang dazu bekommen. So können beispielsweise die unsichtbare Hand des Marktes, der Konflikt zwischen Eigeninteressen und kollektiven Interessen, das Auftreten von Marktversagen oder die Stabilität ökonomischer Gleichgewichte selbst erlebt werden. Auch Quizfragen zur Prüfung des Lernfortschritts können mit Hilfe von classEx implementiert werden.
 
-This documentation is written for lecturers and experimenters who want to use classEx for conducting games
-in the classroom or in the field. In the following, we will talk about lecturers as the one running the game. All information hold true for as experimenters as well. **Participants do not need to read this documentation.** Participants are informed by the lecturer on how to login.
+Die direkte Auswertung und graphische Darstellung der Ergebnisse von Experimenten erlauben eine erfahrungsbasierte Diskussion im Unterricht. 
 
-The chapter :ref:`Basics:Getting started with classEx` explains the first steps for new classEx users.
+.. note:: Sie können das classEx@school Handbuch auch als `pdf version`_ herunterladen. Wir aktualisieren das Handbuch fortlaufend, wenn wir Änderungen an classEx vornehmen oder Anmerkungen von Nutzinnen und Nutzern bekommen. Bitte überprüfen Sie daher von Zeit zu Zeit die Release-Nummer Ihres Handbuchs. Dies ist die Version 1.0.
+
+.. _pdf version: https://buildmedia.readthedocs.org/media/pdf/classexschool-doc/latest/classexschool-doc.pdf
+
+classEx@school ist Teil von classEx, das am Lehrstuhl für Wirtschaftstheorie an der Universität Passau entwickelt wurde. Mit classEx nehmen vor allem Studierende in über 250 Institutionen in 50 Ländern an Experimente teil. Dozierende können vorgefertigte Spiele nutzen oder eigene Spiele erstellen. Falls Sie eigene Experimente für den Unterricht an Schulen programmieren wollen oder weiterführende Funktionen suchen, finden Sie diese in der englischsprachigen Dokumentation von classEx unter ref:: https://classex-doc.readthedocs.io/en/latest/
+
+
+Das Kapitel :ref:`Basics:Getting started with classEx` explains the first steps for new classEx users.
 
 In the chapter :ref:`Run:Run ready-made games` you find a step-by-step guide how to run ready-made games in classEx.
 
@@ -50,21 +56,7 @@ The chapter :ref:`Programming:Programming` provides a list of variables and func
    Programming
 
 
-**Version and new features**
+classEx ist kostenlos für akademische und nicht-akademische Zwecke. Weitere Informationen finden Sie in den `Nutzungsbedingungen`_. classEx wird ohne Gewähr zur Verfügung gestellt. Wir entwickeln classEx fortlaufend weiter. Auch die Inhalte in classEx entwickeln sich weiter, da konstant neue NutzerInnen hinzukommen, neue Spiele entwerfen und diese meist anderen NutzerInnen zur Verfügung stellen. Da wir classEx immer verbessern wollen, freuen wir uns über Anregungen, Feedback, Bug-Reports oder Fragen. Bitte kontaktieren Sie uns dazu per Email an classEx@uni-passau.de oder im `classEx Forum`_.
 
-classEx can be used free of charge for academic and non-academic purposes. Read more in the `terms of use`_. It is provided free of any warranty. classEx is constantly being improved. Users are being added and are delivering results to existing experiments. Further experiments are being designed and made available. Likewise, the functionality is continuously being revised and updated. If you have any questions, support issues or want to report bugs, please mail to classEx@uni-passau.de or visit our `forum`_.
-
-.. _terms of use: https://classEx.de/TermsOfUse.pdf
-.. _forum: https://groups.google.com/forum/#!forum/classex
-
-Below you find a list of the last updates:
-
-:Dec 6th 2018: The new version of the documentation is released.
-:Sep 5th 2018: A new version is released: version 3.5.
-:Jan 18th 2018: A new version is released version 3.4.5. New features include a camera input, a discrete choice element for lecturers and a new contract element.
-:Feb 20th 2017: classEx was updated to version 3.4.3.
-:May 14th 2016: classEx was updated to version 3.4.
-:Sept 20th 2015: A login with a QR-Code is provided automatically for all experiments.
-:Sept 15th 2015: The login page was restructured. Prior to selecting the course, the respective institution has to be selected.
-:April 8th 2015: All elements in the editing mode are directly linked to the documentation which provides explanation of the different features.
-:Nov 20th 2015: classEx was updated to version 3.3.
+.. _Nutzungsbedingungen: https://classEx.de/TermsOfUse.pdf
+.. _classEx Forum: https://groups.google.com/forum/#!forum/classex
