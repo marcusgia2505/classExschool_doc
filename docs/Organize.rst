@@ -1,6 +1,44 @@
 ===============
-Organize games 
+Grundsätzliches
 ===============
+
+
+Registrierung
+==============
+Lehrerinnen und Lehrer müssen sich registrieren, um classEx zu nutzen. Bitte füllen Sie dazu den Anmeldebogen `online`aus. Angemeldete Nutzer bekommen per E-Mail ein Passwort zugeschickt und erhalten hierdurch das Recht zur unbeschränkten und kostenfreien Nutzung von classEx für den Einsatz im Unterricht (für Details siehe `Nutzungsbedingungen`_). Schülerinnen und Schüler müssen sich nicht registrieren, sondern können sich annonym als TeilnehmerInnen im Unterricht einloggen. 
+
+.. _online: https://classex.de/Zugangsdatenformular/
+
+
+Login
+=====
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can organize your games in the overview mode. Here, you can find all your own games as well as the ready-made games that are shown in your overview by default.
 
