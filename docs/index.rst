@@ -20,9 +20,9 @@ In interaktiven Experimenten können Schülerinnen und Schüler eigene Entscheid
 
 Die direkte Auswertung und graphische Darstellung der Ergebnisse von Experimenten erlauben eine erfahrungsbasierte Diskussion im Unterricht. 
 
-.. note:: Sie können das classEx@school Handbuch auch als `pdf version`_ herunterladen. Wir aktualisieren das Handbuch fortlaufend, wenn wir Änderungen an classEx vornehmen oder Anmerkungen von Nutzinnen und Nutzern bekommen. Bitte überprüfen Sie daher von Zeit zu Zeit die Release-Nummer Ihres Handbuchs. Dies ist die Version 1.0.
+.. note:: Sie können das classEx@school Handbuch auch als `PDF Version`_ herunterladen. Wir aktualisieren das Handbuch fortlaufend, wenn wir Änderungen an classEx vornehmen oder Anmerkungen von Nutzinnen und Nutzern bekommen. Bitte überprüfen Sie daher von Zeit zu Zeit die Release-Nummer Ihres Handbuchs. Dies ist die Version 1.0.
 
-.. _pdf version: https://buildmedia.readthedocs.org/media/pdf/classexschool-doc/latest/classexschool-doc.pdf
+.. _PDF Version: https://buildmedia.readthedocs.org/media/pdf/classexschool-doc/latest/classexschool-doc.pdf
 
 classEx@school ist Teil von classEx, das am Lehrstuhl für Wirtschaftstheorie an der Universität Passau entwickelt wurde. Mit classEx nehmen vor allem Studierende in über 250 Institutionen in 50 Ländern an Experimente teil. Dozierende können vorgefertigte Spiele nutzen oder eigene Spiele erstellen. Falls Sie eigene Experimente für den Unterricht an Schulen programmieren wollen oder weiterführende Funktionen suchen, finden Sie diese in der englischsprachigen Dokumentation von classEx unter ref:: https://classex-doc.readthedocs.io/en/latest/
 
