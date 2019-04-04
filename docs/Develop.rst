@@ -5,7 +5,7 @@ Unterrichtseinheiten
 
 classEx@school stellt diverse Unterrichtseinheiten bereit sowie ein paar kleinere Experimente, die im Unterricht als Anreger dienen sollen.
 
-Weitere Informationen zu den Unterrichtseinheiten finden Sie auf der classEx@school `Homepage`_.
+Weitere Informationen zu den Unterrichtseinheiten finden Sie auf der classEx@school `Homepage`_ und im folgenden Video.
 
 .. raw:: html
 
@@ -15,4 +15,4 @@ Weitere Informationen zu den Unterrichtseinheiten finden Sie auf der classEx@sch
 
 .. raw:: latex
 
-    Sie finden ein kurzes Einführungsvideo unter \url{https://www.youtube.com/watch?v=bhqkxwJWR0w}.
+    Sie finden ein kurzes Einführungsvideo zu Unterrichtsstunden mit classEx unter \url{https://www.youtube.com/watch?v=bhqkxwJWR0w}.
