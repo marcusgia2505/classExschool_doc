@@ -5,7 +5,8 @@ SchülerInnen
 Login
 =====
 
-.. image:: _static/elements/Login_Schüler.png
+.. image:: _static/Login_Schüler.png
+    :alt:  300px
 
 Um sich einzuloggen, gehen Schülerinnen und Schüler auf die `Login Website`_ und suchen ihre Schule und ihre Lehrerin bzw. ihren Lehrer aus. Dann geben sie das von der Lehrerin oder dem Lehrer bereitgestellte Passwort ein und klicken auf "Login".
 
