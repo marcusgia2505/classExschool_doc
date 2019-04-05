@@ -5,7 +5,7 @@ SchülerInnen
 Login
 =====
 
-..image:: _static/elements/Login_Schüler.png
+.. image:: _static/elements/Login_Schüler.png
 
 Um sich einzuloggen, gehen Schülerinnen und Schüler auf die `Login Website`_ und suchen ihre Schule und ihre Lehrerin bzw. ihren Lehrer aus. Dann geben sie das von der Lehrerin oder dem Lehrer bereitgestellte Passwort ein und klicken auf "Login".
 
@@ -19,7 +19,7 @@ Login mit einem QR-Code
 
 Es kann auf alle Spiele durch einen QR-Code zugegriffen werden. Der QR-Code wird automatisch auf dem Bildschirm der Lehrerinnen und Lehrer zur Verfügung gestellt. Durch klicken auf das Symbol wird der QR-Code vergrößert.
 
-..image:: _/static/QRlogin.PNG
+.. image:: _/static/QRlogin.PNG
 
 Lehrerinnen und Lehrer können den QR-Code entweder mit auf ein Arbeitsblatt drucken oder am Bildschirm anzeigen. Wenn die Lehrerin oder der Lehrer auf das QR-Code Symbol klickt, werden auch Instruktionen angezeigt, wie man sich ohne QR-Code einloggen kann. 
 
@@ -49,20 +49,21 @@ Entscheidungen treffen
 
 Wenn ein Spiel gestartet wurde, wird den Schülerinnen und Schülern ihre Rolle zusammen mit ihrer ersten Entscheidungsmöglichkeit angezeigt. 
 Rollen werden durch verschiedenfarbige Figuren dargestellt wie beispielsweise:
+
 .. image:: _static/Role1.JPG
 
 Es sind unter anderem folgende Entscheidungsmechanismen möglich:
 
 Binäre Entscheidung
 ~~~~~~~~~~~~~~~~~~~
-..image:: _/static/PD_Entscheidung.PNG
+.. image:: _/static/PD_Entscheidung.PNG
 
 Durch Auswählen einer der beiden Optionen, wird die Entscheidung gespeichert. 
 
 Numerisches Eingabefeld
 ~~~~~~~~~~~~~~~~~~~~~
 
-..image:: _/static/Numerisches_Eingabefeld.PNG
+.. image:: _/static/Numerisches_Eingabefeld.PNG
 
 Numerische Eingaben erfolgen, indem eine Zahl eingetragen wird und dann der "Eingaben absenden" Knopf gedrückt wird. Falls die Eingabe ein von der Lehrerin oder dem Lehrer vorgegebenes Maximum oder Minimum über- bzw. unterschreitet, muss die Eingabe wiederholt werden. Neben dem Maximum und dem Minimum können auch die Nachkommastellen spezifiziert werden und es kann festgelegt werden, ob die Eingabe verpflichtend ist.
 
