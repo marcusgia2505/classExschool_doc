@@ -6,15 +6,13 @@ In folgendem Video bekommen Sie eine kurze Einführung zur Durchführung eines S
 
 .. raw:: html
 
-    Ein kurzes Einführungsvideo, wie man ein Spiel in classEx spielen kann:
-
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src="https://www.youtube.com/watch?v=avR7y4X_p3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/avR7y4X_p3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. raw:: latex
 
-    Sie finden ein kurzes Einführungsvideo unter \url{https://www.youtube.com/watch?v=avR7y4X_p3k}.
+    Sie finden ein kurzes Einführungsvideo unter \url{https://www.youtube.com/embed/avR7y4X_p3k}.
 
 
 Kontrolleiste
