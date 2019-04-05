@@ -35,7 +35,9 @@ Die direkte Auswertung und graphische Darstellung der Ergebnisse von Experimente
    Vorlesungsmodus
    Unterrichtseinheiten
 
-classEx@school ist Teil von classEx, das am Lehrstuhl für Wirtschaftstheorie an der Universität Passau entwickelt wurde. Mit classEx nehmen vor allem Studierende in über 250 Institutionen in 50 Ländern an Experimente teil. Dozierende können vorgefertigte Spiele nutzen oder eigene Spiele erstellen. Falls Sie eigene Experimente für den Unterricht an Schulen programmieren wollen oder weiterführende Funktionen suchen, finden Sie diese in der englischsprachigen Dokumentation von classEx unter ref:: https://classex-doc.readthedocs.io/en/latest/
+classEx@school ist Teil von classEx, das am Lehrstuhl für Wirtschaftstheorie an der Universität Passau entwickelt wurde. Mit classEx nehmen vor allem Studierende in über 250 Institutionen in 50 Ländern an Experimente teil. Dozierende können vorgefertigte Spiele nutzen oder eigene Spiele erstellen. Falls Sie eigene Experimente für den Unterricht an Schulen programmieren wollen oder weiterführende Funktionen suchen, finden Sie diese in der `englischsprachigen Dokumentation`_ von classEx.
+
+.. _englischsprachige Dokumentation: https://classex-doc.readthedocs.io/en/latest/
 
 classEx ist kostenlos für akademische und nicht-akademische Zwecke. Weitere Informationen finden Sie in den `Nutzungsbedingungen`_. classEx wird ohne Gewähr zur Verfügung gestellt. Wir entwickeln classEx fortlaufend weiter. Auch die Inhalte in classEx entwickeln sich weiter, da konstant neue NutzerInnen hinzukommen, neue Spiele entwerfen und diese meist anderen NutzerInnen zur Verfügung stellen. Da wir classEx immer verbessern wollen, freuen wir uns über Anregungen, Feedback, Bug-Reports oder Fragen. Bitte kontaktieren Sie uns dazu per Email an classEx@uni-passau.de oder im `classEx Forum`_.
 
