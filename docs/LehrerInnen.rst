@@ -30,7 +30,7 @@ Wenn Sie einen Modus ausgewählt haben, wird dieser dunkel schattiert angezeigt.
 Überblick
 ~~~~~~~~~
 
-..image:: _static/ueberblick.PNG
+.. image:: _static/ueberblick.PNG
 
 Hier finden Sie eine Übersicht all Ihrer Spiele und der standardmäßig implementierten Spiele. Sie können ein neues Spiel erstellen indem Sie auf Neues Spiel in der oberen Menüleiste klicken. Die Spiele sind in Verzeichnissen, z. B. für verschiedene Unterrichtskapitel, abgelegt. Sie finden diese auf der linken Seite des Bildschirms. Sie können eine neues Verzeichnis erstellen indem Sie auf Neues Verzeichnis klicken. Verzeichnisse können umbenannt werden, indem man einen neuen Namen in dem Feld über der Liste der Spiele des Verzeichnisses eingibt. Sie können Spiele per Drag-and-Drop von einem Verzeichnis in ein anderes schieben.
 
