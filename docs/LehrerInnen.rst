@@ -15,7 +15,7 @@ Einen kurzen Einblick erhalten Sie im folgenden Video
 
 .. raw:: latex
 
-    Sie finden ein kurzes Einführungsvideo unter \url{https://www.youtube.com/watch?v=wvTQYDS6PPc}.
+    Sie finden ein kurzes Einführungsvideo unter \url{https://www.youtube.com/embed/wvTQYDS6PPc}.
 
 
 Hauptansichten von classEx@school
