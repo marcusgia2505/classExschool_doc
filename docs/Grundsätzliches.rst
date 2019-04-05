@@ -5,7 +5,7 @@ Grundsätzliches
 
 Registrierung
 ==============
-Lehrerinnen und Lehrer müssen sich registrieren, um classEx zu nutzen. Bitte füllen Sie dazu den Anmeldebogen `online`aus. Angemeldete Nutzer bekommen per E-Mail ein Passwort zugeschickt und erhalten hierdurch das Recht zur unbeschränkten und kostenfreien Nutzung von classEx für den Einsatz im Unterricht (für Details siehe `Nutzungsbedingungen`_). Schülerinnen und Schüler müssen sich nicht registrieren, sondern können sich annonym als TeilnehmerInnen im Unterricht einloggen. 
+Lehrerinnen und Lehrer müssen sich registrieren, um classEx zu nutzen. Bitte füllen Sie dazu den Anmeldebogen `online`_ aus. Angemeldete Nutzer bekommen per E-Mail ein Passwort zugeschickt und erhalten hierdurch das Recht zur unbeschränkten und kostenfreien Nutzung von classEx für den Einsatz im Unterricht (für Details siehe `Nutzungsbedingungen`_). Schülerinnen und Schüler müssen sich nicht registrieren, sondern können sich annonym als TeilnehmerInnen im Unterricht einloggen. 
 
 .. _online: https://classex.de/Zugangsdatenformular/
 
@@ -13,7 +13,7 @@ Lehrerinnen und Lehrer müssen sich registrieren, um classEx zu nutzen. Bitte f�
 Login
 =====
 
-..image:: _static/Login_Schüler.png
+..image:: _/static/Login_Schüler.png
 
 Die Login Website zeigt den oben abgebildeten Login Bildschirm an. Zuerst muss die Schule ausgewählt werden. Danach wird die Lehrerin oder der Lehrer ausgewählt. Zum Schluss müssen Sie noch auswählen, ob Sie Schülerin / Schüler oder Lehrerin / Lehrer sind, geben dann Ihr Passwort ein und loggen sich ein. Der Login für Schülerinnen und Schüler sowie für Leherinnen und Lehrer gestaltet sich folgendermaßen:
 
