@@ -5,7 +5,7 @@ Grundsätzliches
 
 Registrierung
 ==============
-Lehrerinnen und Lehrer müssen sich registrieren, um classEx zu nutzen. Bitte füllen Sie dazu den Anmeldebogen `online`_ aus. Angemeldete Nutzer bekommen per E-Mail ein Passwort zugeschickt und erhalten hierdurch das Recht zur unbeschränkten und kostenfreien Nutzung von classEx für den Einsatz im Unterricht (für Details siehe `Nutzungsbedingungen`_). Schülerinnen und Schüler müssen sich nicht registrieren, sondern können sich annonym als TeilnehmerInnen im Unterricht einloggen. 
+Lehrerinnen und Lehrer müssen sich registrieren, um classEx zu nutzen. Bitte füllen Sie dazu den Anmeldebogen `online`_ aus. Angemeldete NutzerInnen bekommen per E-Mail ein Passwort zugeschickt und erhalten hierdurch das Recht zur unbeschränkten und kostenfreien Nutzung von classEx für den Einsatz im Unterricht (für Details siehe `Nutzungsbedingungen`_). Schülerinnen und Schüler müssen sich nicht registrieren, sondern können sich annonym als TeilnehmerInnen im Unterricht einloggen. 
 
 .. _online: https://classex.de/Zugangsdatenformular/
 .. _Nutzungsbedingungen: https://classEx.de/TermsOfUse.pdf
@@ -16,17 +16,17 @@ Login
 .. image:: _static/Login_Schüler.png
     :alt:  300px
 
-Die Login Website zeigt den oben abgebildeten Login Bildschirm an. Zuerst muss die Schule ausgewählt werden. Danach wird die Lehrerin oder der Lehrer ausgewählt. Zum Schluss müssen Sie noch auswählen, ob Sie Schülerin / Schüler oder Lehrerin / Lehrer sind, geben dann Ihr Passwort ein und loggen sich ein. Der Login für Schülerinnen und Schüler sowie für Leherinnen und Lehrer gestaltet sich folgendermaßen:
+Die Login Website zeigt den oben abgebildeten Login Bildschirm an. Zuerst muss die Schule ausgewählt werden. Danach wird die Lehrerin oder der Lehrer ausgewählt. Zum Schluss müssen Sie noch auswählen, ob Sie Schülerin/Schüler oder Lehrerin/Lehrer sind, geben dann Ihr Passwort ein und loggen sich ein. Der Login für Schülerinnen und Schüler sowie für Leherinnen und Lehrer gestaltet sich folgendermaßen:
 
 SchülerInnen
 ~~~~~~~~~~~~
 
-Schülerinnen und Schüler loggen sich als "Schülerinnen und Schüler" ein. Sie brauchen sich nicht registrieren und bleiben anonym. Die Lehrerin oder der Lehrer legt vorher das Passwort fest (oben rechts im Bild auf den Accountnamen klicken --> Kurs) und teilt es den Schüllerinnen und Schülern mit. Weitere Informationen zur Nutzung durch Schülerinnen und Schüler finden Sie hier.
+Schülerinnen und Schüler loggen sich als "Schülerinnen und Schüler" ein. Sie brauchen sich nicht registrieren und bleiben anonym. Die Lehrerin oder der Lehrer legt vorher das Passwort fest (oben rechts im Bild auf den Accountnamen klicken --> Kurs) und teilt es den Schüllerinnen und Schülern mit. Weitere Informationen zur Nutzung durch Schülerinnen und Schüler finden Sie unter :ref: `SchülerInnen`.
 
 LehrerInnen
 ~~~~~~~~~~~
 
-Lehrerinnen und Lehrer loggen sich als "Lehrerinnen und Lehrer" ein. Sie erhalten Ihr Passwort per E-Mail, nachdem Sie sich registriert haben. Weitere Informationen zur Nutzung durch Lehrerinnen und Lehrer finden Sie hier. 
+Lehrerinnen und Lehrer loggen sich als "Lehrerinnen und Lehrer" ein. Sie erhalten Ihr Passwort per E-Mail, nachdem Sie sich registriert haben. Weitere Informationen zur Nutzung durch Lehrerinnen und Lehrer finden Sie unter :ref: `LehrerInnen`. 
 
 
 Praktische Tipps
