@@ -52,11 +52,11 @@ Bearbeitungsmodus
 
 Im Bearbeitungsmodus können Sie bestehende Spiele bearbeiten und neue Spiele entwerfen. Die Dokumentation hierzu ist nur in englischer Sprache vorhanden. Sie können diese `hier`_ finden.
 
-.._hier:: https://classex-doc.readthedocs.io/en/latest/
+.. _hier: https://classex-doc.readthedocs.io/en/latest/
 
 Unterrichtseinheiten
 ====================
 
 Zu einzelnen Spielen aus ClassEx@school gibt es ausgearbeitete Unterrichtseinheiten mit Anleitungen, Übungsblätter und Präsentationen. Sie finden diese auf der classEx homepage im `entsprechenden Bereich`_.
 
-.._entsprechenden Bereich:: https://classex.de/unterrichtseinheiten/
+.. _entsprechenden Bereich: https://classex.de/unterrichtseinheiten/
