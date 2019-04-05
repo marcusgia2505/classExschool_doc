@@ -10,7 +10,7 @@ Hier bekommen Sie einen kurzen Überblick über die Möglichkeiten, die Ihnen al
 Einen kurzen Einblick erhalten Sie im folgenden Video
 
     <div style="text-align: center; margin-bottom: 2em;">
-    <iframe width="100%" height="350" src="https://www.youtube.com/watch?v=wvTQYDS6PPc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/wvTQYDS6PPc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. raw:: latex
@@ -23,8 +23,9 @@ Hauptansichten von classEx@school
 
 In der rechten oberen Ecke finden Sie eine Navigationsleiste, die in jedem Modus angezeigt bleibt. Hier können Sie zwischen den Hauptansichten von classEx@school (Vorlesungsmodus, Überblick, Bearbeitungsmodus) wechseln und daneben Ihre Benutzerdaten einsehen. 
 
-.. image:: _static/overview_Leiste.PNG
+.. image:: _static/overview_Leiste.png
     :alt:  300px
+
 
 Wenn Sie einen Modus ausgewählt haben, wird dieser dunkel schattiert angezeigt. Über das linke Symbol gelangen Sie in den Überblicksmodus. Das mittlere Symbol führt in den Vorlesungsmodus, das rechte in den Bearbeitungsmodus. Indem Sie auf den Namen Ihres Accounts klicken, der rechts neben der Modus-Leiste angezeigt wird, öffnen Sie ein Dropdown-Menü. Hier können Sie Ihre eigenen Daten, die Kursdaten, die Dokumentation, die Nutzungsbendingungen und einige allgemeine Informationen über classEx@school einsehen sowie sich selbst ausloggen. Sie können hier auch alle aktuell in Ihrem Kurs angemeldeten Teilnehmer ausloggen (über --> Kurs). 
 
@@ -33,7 +34,7 @@ Wenn Sie einen Modus ausgewählt haben, wird dieser dunkel schattiert angezeigt.
 Überblick
 ~~~~~~~~~
 
-.. image:: _static/ueberblick.PNG
+.. image:: _static/Ueberblick.png
     :alt:  300px
 
 Hier finden Sie eine Übersicht all Ihrer Spiele und der standardmäßig implementierten Spiele. Sie können ein neues Spiel erstellen indem Sie auf Neues Spiel in der oberen Menüleiste klicken. Die Spiele sind in Verzeichnissen, z. B. für verschiedene Unterrichtskapitel, abgelegt. Sie finden diese auf der linken Seite des Bildschirms. Sie können eine neues Verzeichnis erstellen indem Sie auf Neues Verzeichnis klicken. Verzeichnisse können umbenannt werden, indem man einen neuen Namen in dem Feld über der Liste der Spiele des Verzeichnisses eingibt. Sie können Spiele per Drag-and-Drop von einem Verzeichnis in ein anderes schieben.
