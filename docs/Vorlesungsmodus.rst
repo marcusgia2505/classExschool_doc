@@ -12,7 +12,7 @@ In folgendem Video bekommen Sie eine kurze Einführung zur Durchführung eines S
 
 .. raw:: latex
 
-    Sie finden ein kurzes Einführungsvideo unter \url{https://www.youtube.com/embed/avR7y4X_p3k}.
+    Sie finden ein kurzes Einführungsvideo unter \url{https://www.youtu.be/avR7y4X_p3k}.
 
 
 Kontrolleiste
