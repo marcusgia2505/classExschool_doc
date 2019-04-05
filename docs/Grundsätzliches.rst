@@ -13,8 +13,9 @@ Lehrerinnen und Lehrer müssen sich registrieren, um classEx zu nutzen. Bitte f�
 Login
 =====
 
-..image:: /_static/Login_Schüler.png
-
+..image:: _static/Login_Schüler.png
+    :alt:  300px
+    
 Die Login Website zeigt den oben abgebildeten Login Bildschirm an. Zuerst muss die Schule ausgewählt werden. Danach wird die Lehrerin oder der Lehrer ausgewählt. Zum Schluss müssen Sie noch auswählen, ob Sie Schülerin / Schüler oder Lehrerin / Lehrer sind, geben dann Ihr Passwort ein und loggen sich ein. Der Login für Schülerinnen und Schüler sowie für Leherinnen und Lehrer gestaltet sich folgendermaßen:
 
 SchülerInnen
