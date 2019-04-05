@@ -116,4 +116,4 @@ In der oberen rechten Ecke des Graphen sehen Sie ein Symbol mit drei Linien. Wen
 
 Für mehr Informationen zu Graphen mit verschiedenen Ergebnissen `klicken Sie hier`_. 
 
-.._klicken Sie hier:: https://classex-doc.readthedocs.io/en/latest/Elements.html#result-element
+.. _klicken Sie hier: https://classex-doc.readthedocs.io/en/latest/Elements.html#result-element
