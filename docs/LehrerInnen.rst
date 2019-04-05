@@ -15,7 +15,7 @@ Hier bekommen Sie einen kurzen Überblick über die Möglichkeiten, die Ihnen al
 
 .. raw:: latex
 
-    Sie finden ein kurzes Einführungsvideo unter \url{https://www.youtube.com/embed/wvTQYDS6PPc}.
+    Sie finden ein kurzes Einführungsvideo unter \url{https://www.youtu.be/wvTQYDS6PPc}.
 
 
 Hauptansichten von classEx@school
@@ -45,7 +45,7 @@ Wenn Sie ein weiteres Spiel zu einem Verzeichnis hinzufügen möchten, klicken S
 
 In eigenen Verzeichnissen werden neben den Spielen weitere Symbole angezeigt. Durch Klicken auf das Mülleimer-Symbol können Sie Spiele aus eigenen Verzeichnissen löschen. Das Box-Symbol zeigt, ob ein Spiel öffentlich ist (offene Box), d. h. andere Nutzer können dieses Spiel sehen und kopieren, oder ob es privat ist (geschlossene Box). Indem Sie auf das Symbol klicken können Sie diese Einstellung ändern. Das Symbol eines kleinen Schildchens bedeutet, dass dieses Spiel von einem anderen Nutzer erstellt wurde und deswegen von Ihnen nicht bearbeitet werden kann.
 
-Über die Taste Repository in der oberen Menüleiste erhalten Sie Zugang zu allen öffentlichen Spielen, die von Ihnen oder anderen Nutzern erstellt wurden.
+Über "Repository" in der oberen Menüleiste erhalten Sie Zugang zu allen öffentlichen Spielen, die von Ihnen oder anderen Nutzern erstellt wurden.
 
 Vorlesungsmodus
 ~~~~~~~~~~~~~~~
