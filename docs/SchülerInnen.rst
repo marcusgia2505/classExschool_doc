@@ -11,7 +11,7 @@ Um sich einzuloggen, gehen Schülerinnen und Schüler auf die `Login Website`_ u
 
 Falls Schülerinnen und Schüler eingeloggt sind, bevor die Lehrerin oder der Lehrer das Spiel gestartet hat, wird ein Wartebildschirm angezeigt. 
 
-.. _Login Website:: https://classex.uni-passau.de/bin/school.php
+.. _Login Website: https://classex.uni-passau.de/bin/school.php
 
 
 Login mit einem QR-Code
