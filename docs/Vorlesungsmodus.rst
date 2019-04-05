@@ -21,26 +21,31 @@ Kontrolleiste
 Die Kontrollleiste des Vorlesungsmodus sieht folgendermaßen aus: 
 
 ..image:: _static/UM_KL1_school.jpg
+    :alt:  300px
 
 Sie finden hier folgende Symbole:
 
 - Spiel auswählen: Hier finden Sie alle Spiele aus Ihren persönlichen und den allgemeinen Verzeichnissen. Sobald Sie auf ein Spiel klicken, wird es geöffnet.
 
-- QR Code Symbol: Wenn Sie auf dieses Symbol klicken, wird der QR Code vergrößert angezeigt. Dazu werden Instruktionen angezeigt wie sich Teilnehmer ohne Nutzung des QR Codes einloggen können.
+- QR Code Symbol: Wenn Sie auf dieses Symbol klicken, wird der QR Code vergrößert angezeigt. Dazu werden Instruktionen angezeigt wie sich TeilnehmerInnen ohne Nutzung des QR Codes einloggen können.
 
 - ..image::_static/testpart.JPG
+    :alt:  80px
 Klicken Sie auf dieses Symbol um in einem neuen Tab einen zusätzlichen Testteilnehmer hinzuzufügen. Dies kann beim Testen von classEx-Spielen sehr hilfreich sein. Wenn Sie die Steuerungstaste gedrückt halten, können Sie mehrere Testteilnehmer am Stück hinzufügen.
 
 - ..image::_static/steto.png 
+    :alt:  80px
+
 Klicken Sie auf dieses Symbol um in den Diagnosemodus zu gelangen. Hier sehen Sie eine Übersicht aller Spielvariablen und können so Programmierfehler leichter entdecken.
 
 - Daten: Drop down Menu. Klicken Sie auf Daten anzeigen um eine Teilnehmertabelle zu öffnen, die Ihnen eine Übersicht über alle Teilnehmer und deren aktuelle Stage gibt. "Zurück zum Vorlesungsmodus" bringt Sie zurück zum aktuellen Spiel. 
 
 ..image:: _/static/daten anzeigen.png
-
+    :alt:  300px
 - Als Excel-Datei herunterladen: Im Drop down Menu Daten können Sie auch Excel-Dateien herunterladen. Diese enthalten die Entscheidungen eines soeben gespielten Spiels. Es sind auch Dateien verfügbar, die eine Übersicht der in diesem Spiel existierenden Rollen, Treatments und Gruppen und die Teilnehmer IDs und Loginzeiten enthalten. 
 
 ..image:: _/static/daten herunterladen.png
+    :alt:  300px
 
 Rechts neben dem Daten-Menu finden Sie in vielen Spielen außerdem ein Menu in dem Sie die Ergebnisse vorheriger Spiele von Ihnen oder anderen Experimentatoren ansehen können.
 
@@ -61,6 +66,7 @@ Während des Unterrichts geschieht die Interaktion zwischen LehrerIn und Schüle
 LehrerInnen können ein neues Spiel auswählen indem sie es aus der Drop down Liste auswählen. Diese Liste enthält alle verfügbaren Spiele. Ein ausgewähltes Spiel kann durch Drücken der Taste "Starten" gestartet werden.
 
 ..image:: _/static/Spiel_starten.jpg
+    :alt:  150px
 
 Damit beginnt die erste Stage eines Spiels. Wenn ein Spiel aus mehreren Stages besteht, wird die Starttaste der nächsten Stage nach dem Drücken der Starttaste für die erste Stage angezeigt.
 
@@ -75,6 +81,7 @@ Während des Spiels
 Während des Durchlaufs einer Stage zeigt ein Display an wieviele Teilnehmer eingeloggt sind und wieviele von ihnen bereits ihre Entscheidung in der aktuellen Stage getroffen haben. 
 
 ..image:: _static/Ergebnis_anzeigen.jpg
+    :alt:  150px
 
 Hier sind drei Teilnehmer eingeloggt und einer hat bereits seine Entscheidung getroffen.
 
@@ -87,6 +94,7 @@ Ein Spiel beenden
 Wenn die TeilnehmerInnen ihre Entscheidungen getroffen haben, kann das Spiel beendet werden, indem die Lehrerin oder der Lehrer auf "Ergebnisse anzeigen" klickt.
 
 ::image:: _/static/Erg_u_Gew_anzeigen.jpg
+    :alt:  300px
 
 Wenn Spiele um echtes Geld gespielt werden, steht neben der Taste "Ergebnisse anzeigen" auch die Taste "Ergebnisse und Auszahlungen anzeigen" zur Verfügung. Sollten Sie keine Auszahlungen machen wollen (zum Beispiel in Proberunden) können Sie auch auf die Taste "Nur Ergebnisse anzeigen" klicken.
 
@@ -107,6 +115,7 @@ Grafische Ergebnisse
 ====================
 
 ..image:: _static/Beautymacro.JPG
+    :alt:  300px
 
 Einige der angezeigten Abbildungen und Diagramme können adaptiert werden. Alle mit Highcharts.com (siehe untere rechte Ecke der Abbildung oben) gekennzeichneten Abbildungen haben eine Zoomfunktion. Sie können zoomen indem Sie einfach klicken und den Mauszeiger über den Bereich ziehen, in den Sie zoomen wollen. Die Taste "Zoom zurücksetzen" setzt die Anzeige wieder auf die Originalgröße zurück.
 
