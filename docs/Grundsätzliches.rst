@@ -48,4 +48,4 @@ SchülerInnen einweisen
 Bevor Sie classEx das erste Mal im Unterricht nutzen, sollten Sie Ihre Schülerinnen und Schüler gut in die Nutzungsweise einweisen und ihnen sagen, wie man sich einloggt und Entscheidungen trifft.
 Eine Vorlage für eine `Powerpoint Präsentation`_ (auf Englisch) ist verfügbar und kann nach Bedarf angepasst werden.
 
-.. _Powerpoint Präsentation:: http://classex.uni-passau.de/wiki/instructions.pptx
+.. _Powerpoint Präsentation: http://classex.uni-passau.de/wiki/instructions.pptx
