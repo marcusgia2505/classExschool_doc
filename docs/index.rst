@@ -25,30 +25,15 @@ Die direkte Auswertung und graphische Darstellung der Ergebnisse von Experimente
 .. _PDF Version: https://buildmedia.readthedocs.org/media/pdf/classexschool-doc/latest/classexschool-doc.pdf
 
 
-Das Kapitel :ref:`Basics:Getting started with classEx` explains the first steps for new classEx users.
-
-In the chapter :ref:`Run:Run ready-made games` you find a step-by-step guide how to run ready-made games in classEx.
-
-The  chapter :ref:`Organize:Organize games` tells you how to structure your games in your account and how to find games from other users.
-
-The chapter :ref:`Tutorial:Tutorial: How to develop a simple game` shows a step-by-step introduction for how to develop an ultimatum game.
-
-The chapter :ref:`Develop:Develop your own games` is a manual for users who want to develop their own games.
-
-The chapter :ref:`Elements:Elements` provides an overview of all elements which can be used to develop own games.
-
-The chapter :ref:`Programming:Programming` provides a list of variables and functions for advanced programmers.
-
-
 .. toctree::
    :maxdepth: 10
    :caption: classEx@school Handbuch
 
-   Organize
-   Coursedata
-   Run
-   Elements
-   Develop
+   Grundsätzliches
+   SchülerInnen
+   LehrerInnen
+   Vorlesungsmodus
+   Unterrichtseinheiten
 
 classEx@school ist Teil von classEx, das am Lehrstuhl für Wirtschaftstheorie an der Universität Passau entwickelt wurde. Mit classEx nehmen vor allem Studierende in über 250 Institutionen in 50 Ländern an Experimente teil. Dozierende können vorgefertigte Spiele nutzen oder eigene Spiele erstellen. Falls Sie eigene Experimente für den Unterricht an Schulen programmieren wollen oder weiterführende Funktionen suchen, finden Sie diese in der englischsprachigen Dokumentation von classEx unter ref:: https://classex-doc.readthedocs.io/en/latest/
 
