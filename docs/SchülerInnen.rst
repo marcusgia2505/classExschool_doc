@@ -20,7 +20,7 @@ Login mit einem QR-Code
 
 Es kann auf alle Spiele durch einen QR-Code zugegriffen werden. Der QR-Code wird automatisch auf dem Bildschirm der Lehrerinnen und Lehrer zur Verfügung gestellt. Durch klicken auf das Symbol wird der QR-Code vergrößert.
 
-.. image:: _/static/QRlogin.PNG
+.. image:: _static/QRlogin.PNG
     :alt:  300px
 
 Lehrerinnen und Lehrer können den QR-Code entweder mit auf ein Arbeitsblatt drucken oder am Bildschirm anzeigen. Wenn die Lehrerin oder der Lehrer auf das QR-Code Symbol klickt, werden auch Instruktionen angezeigt, wie man sich ohne QR-Code einloggen kann. 
@@ -29,9 +29,18 @@ Lehrerinnen und Lehrer können den QR-Code entweder mit auf ein Arbeitsblatt dru
 Logout
 ~~~~~~
 
-Schülerinnen und Schüler haben keinen sichtbaren Logout-Button, um zu vermeiden, dass sie sich absichtlich oder unabsichtlich während des Spiels ausloggen. Sollten Sie einen Teilnehmer oder eine Teilnehmerin dennoch ausloggen wollen (z.B. wegen eines technischen Problems) können sie im Bildschirm des Schülers oder der Schülerin auf das classEx-Logo klicken. Dann erscheint ihre interne IP zusammen mit zwei Symbolen. Das rechte zeigt die Internetverbingung an, über das linke können sich SchülerInnen ausloggen.
+Schülerinnen und Schüler haben keinen sichtbaren Logout-Button, um zu vermeiden, dass sie sich absichtlich oder unabsichtlich während des Spiels ausloggen. Sollten Sie einen Teilnehmer oder eine Teilnehmerin dennoch ausloggen wollen (z.B. wegen eines technischen Problems) können sie im Bildschirm des Schülers oder der Schülerin auf das classEx-Logo klicken. Dann erscheint ihre interne IP zusammen mit zwei Symbolen. |pic_internetverbindung| zeigt die Internetverbingung an, über |pic_logout_participants| können sich SchülerInnen ausloggen.
 
-Lehrerinnen und Lehrer können alle Schülerinnen und Schüler, die zur Zeit eingeloggt sind, ausloggen, indem sie in ihren Kursdaten auf deb roten "Alle Teilnehmer ausloggen"-Knopf drücken.
+Lehrerinnen und Lehrer können alle Schülerinnen und Schüler, die zur Zeit eingeloggt sind, ausloggen, indem sie in ihren Kursdaten auf den Knopf |pic_logout_all| drücken.
+
+.. |pic_logout_all| image:: _static/logout_all.png
+                            :width: 90px
+
+.. |pic_internetverbindung| image:: _static/internetverbindung.png
+                            :width: 20px
+
+.. |pic_logout_participants| image:: _static/Logout_participants.png
+                            :width: 20px
 
 
 Datenverbrauch
@@ -43,7 +52,7 @@ Der Datenverbrauch der mobilen Daten durch die Nutzung von classEx ist minimal. 
 Bildschirm aktualisieren
 ========================
 
-Die Bildschirme der Schülerinnen und Schüler werden automatisch aktualisiert, sobald ihr Spielpartner oder ihre Spielpartnerin eine Entscheidung getroffen hat oder die Lehrerin bzw. der Lehrer eine neue Runde gestartet hat. Somit können Schülerinnen und Schüler einfach warten, bis es weitergeht und brauchen nicht ständig ihren Bildschirm aktualisieren. 
+Die Bildschirme der Schülerinnen und Schüler werden automatisch aktualisiert, sobald ihr Spielpartner oder ihre Spielpartnerin eine Entscheidung getroffen hat oder die Lehrerin bzw. der Lehrer eine neue Runde gestartet hat. Somit können Schülerinnen und Schüler einfach warten, bis es weitergeht und müssen nicht ständig ihren Bildschirm aktualisieren. 
 
 
 Entscheidungen treffen
@@ -59,7 +68,7 @@ Es sind unter anderem folgende Entscheidungsmechanismen möglich:
 
 Binäre Entscheidung
 ~~~~~~~~~~~~~~~~~~~
-.. image:: _/static/PD_Entscheidung.PNG
+.. image:: _static/PD_Entscheidung.PNG
     :alt:  300px
 
 Durch Auswählen einer der beiden Optionen, wird die Entscheidung gespeichert. 
@@ -67,7 +76,7 @@ Durch Auswählen einer der beiden Optionen, wird die Entscheidung gespeichert.
 Numerisches Eingabefeld
 ~~~~~~~~~~~~~~~~~~~~~
 
-.. image:: _/static/Numerisches_Eingabefeld.PNG
+.. image:: _static/Numerisches_Eingabefeld.PNG
     :alt:  300px
 
 Numerische Eingaben erfolgen, indem eine Zahl eingetragen wird und dann der "Eingaben absenden" Knopf gedrückt wird. Falls die Eingabe ein von der Lehrerin oder dem Lehrer vorgegebenes Maximum oder Minimum über- bzw. unterschreitet, muss die Eingabe wiederholt werden. Neben dem Maximum und dem Minimum können auch die Nachkommastellen spezifiziert werden und es kann festgelegt werden, ob die Eingabe verpflichtend ist.
