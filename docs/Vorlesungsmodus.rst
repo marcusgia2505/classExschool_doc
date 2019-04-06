@@ -39,7 +39,6 @@ Sie finden hier folgende Symbole:
 .. |pic_steto| image:: _static/Steto.PNG
                             :width: 25px
 
-
 - Daten: Drop down Menu. Klicken Sie auf Daten anzeigen, um eine Teilnehmertabelle zu öffnen, die Ihnen eine Übersicht über alle Teilnehmer und deren aktuelle Stage gibt. "Zurück zum aktuellen Spiel" bringt Sie zurück. 
 
 .. image:: _static/Daten_anzeigen.png
