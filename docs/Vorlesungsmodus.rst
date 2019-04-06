@@ -109,7 +109,7 @@ Sie können die Parameter eines Spiels ändern, indem Sie auf |pic_Parameter| kl
 .. |pic_Parameter| image:: _static/Parameter.jpg
                             :width: 70px
 
-.. |pic_Neu_starten| image:: _static/Neu_starten.JPG
+.. |pic_Neu_starten| image:: _static/Neu_starten.jpg
                             :width: 70px
 
 
