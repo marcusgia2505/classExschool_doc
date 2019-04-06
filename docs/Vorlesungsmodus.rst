@@ -31,12 +31,12 @@ Sie finden hier folgende Symbole:
 
 - Klicken Sie auf das Symbol |pic_testpart|, um in einem neuen Tab einen zusätzlichen Testteilnehmer hinzuzufügen. Dies kann beim Testen von classEx-Spielen sehr hilfreich sein. Wenn Sie die Steuerungstaste gedrückt halten, können Sie mehrere Testteilnehmer am Stück hinzufügen.
 
-.. |pic_testpart| image:: _static/testpart.JPG
+.. |pic_testpart| image:: _static/Testpart.JPG
                             :width: 25px
 
 - Klicken Sie auf das Symbol |pic_steto| um in den Diagnosemodus zu gelangen. Hier sehen Sie eine Übersicht aller Spielvariablen und können so Programmierfehler leichter entdecken.
 
-.. |pic_steto| image:: _static/steto.png
+.. |pic_steto| image:: _static/Steto.PNG
                             :width: 25px
 
 
