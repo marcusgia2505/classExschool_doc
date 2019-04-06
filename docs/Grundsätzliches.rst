@@ -21,12 +21,12 @@ Die Login Website zeigt den oben abgebildeten Login Bildschirm an. Zuerst muss d
 SchülerInnen
 ~~~~~~~~~~~~
 
-Schülerinnen und Schüler loggen sich als "Schülerinnen und Schüler" ein. Sie brauchen sich nicht registrieren und bleiben anonym. Die Lehrerin oder der Lehrer legt vorher das Passwort fest (oben rechts im Bild auf den Accountnamen klicken --> Kurs) und teilt es den Schüllerinnen und Schülern mit. Weitere Informationen zur Nutzung durch Schülerinnen und Schüler finden Sie unter :ref: `SchülerInnen`.
+Schülerinnen und Schüler loggen sich als "Schülerinnen und Schüler" ein. Sie brauchen sich nicht registrieren und bleiben anonym. Die Lehrerin oder der Lehrer legt vorher das Passwort fest (oben rechts im Bild auf den Accountnamen klicken --> Kurs) und teilt es den Schüllerinnen und Schülern mit. Weitere Informationen zur Nutzung durch Schülerinnen und Schüler finden Sie unter :ref:`SchülerInnen`.
 
 LehrerInnen
 ~~~~~~~~~~~
 
-Lehrerinnen und Lehrer loggen sich als "Lehrerinnen und Lehrer" ein. Sie erhalten Ihr Passwort per E-Mail, nachdem Sie sich registriert haben. Weitere Informationen zur Nutzung durch Lehrerinnen und Lehrer finden Sie unter :ref: `LehrerInnen`. 
+Lehrerinnen und Lehrer loggen sich als "Lehrerinnen und Lehrer" ein. Sie erhalten Ihr Passwort per E-Mail, nachdem Sie sich registriert haben. Weitere Informationen zur Nutzung durch Lehrerinnen und Lehrer finden Sie unter :ref:`LehrerInnen`. 
 
 
 Praktische Tipps
