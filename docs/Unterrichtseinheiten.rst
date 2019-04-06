@@ -5,7 +5,7 @@ Unterrichtseinheiten
 
 classEx@school stellt diverse Unterrichtseinheiten bereit sowie ein paar kleinere Experimente, die im Unterricht als Anreger dienen sollen.
 
-Weitere Informationen zu den Unterrichtseinheiten finden Sie auf der classEx@school `Homepage`_ sowie in folgendem Video.
+Weitere Informationen zu den Unterrichtseinheiten finden Sie auf der `Homepage`_ von classEx@school sowie in folgendem Video.
 
 .. _Homepage: https://classex.de/unterrichtseinheiten/
 
