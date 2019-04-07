@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-========================
-classEx@school Handbuch
-========================
+============================
+classEx@school Dokumentation
+============================
 
 
 ======
@@ -20,7 +20,7 @@ In interaktiven Experimenten können Schülerinnen und Schüler eigene Entscheid
 
 Die direkte Auswertung und graphische Darstellung der Ergebnisse von Experimenten erlauben eine erfahrungsbasierte Diskussion im Unterricht. 
 
-.. note:: Sie können das classEx@school Handbuch auch als `PDF Version`_ herunterladen. Wir aktualisieren das Handbuch fortlaufend, wenn wir Änderungen an classEx vornehmen oder Anmerkungen von Nutzinnen und Nutzern bekommen. Bitte überprüfen Sie daher von Zeit zu Zeit die Release-Nummer Ihres Handbuchs. Dies ist die Version 1.0.
+.. note:: Sie können die classEx@school Dokumentation auch als `PDF Version`_ herunterladen. Wir aktualisieren die Dokumentation fortlaufend, wenn wir Änderungen an classEx vornehmen oder Anmerkungen von Nutzinnen und Nutzern bekommen. Bitte überprüfen Sie daher von Zeit zu Zeit die Release-Nummer Ihres Handbuchs. Dies ist die Version 1.0.
 
 .. _PDF Version: https://buildmedia.readthedocs.org/media/pdf/classexschool-doc/latest/classexschool-doc.pdf
 
