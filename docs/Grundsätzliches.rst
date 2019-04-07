@@ -26,7 +26,7 @@ Schülerinnen und Schüler loggen sich als "Schülerinnen und Schüler" ein. Sie
 LehrerInnen
 ~~~~~~~~~~~
 
-Lehrerinnen und Lehrer loggen sich als "Lehrerinnen und Lehrer" ein. Sie erhalten Ihr Passwort per E-Mail, nachdem Sie sich registriert haben. Weitere Informationen zur Nutzung durch Lehrerinnen und Lehrer finden Sie unter :ref:`LehrerInnen`. 
+Lehrerinnen und Lehrer loggen sich als "Lehrerinnen und Lehrer" ein. Sie erhalten Ihr Passwort per E-Mail, nachdem Sie sich registriert haben. Weitere Informationen zur Nutzung durch Lehrerinnen und Lehrer finden Sie unter :ref:`LehrerInnen:LehrerInnen`. 
 
 
 Praktische Tipps
