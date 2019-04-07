@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'classEx@school Handbuch'
+project = u'classEx@school Dokumentation'
 copyright = u'2018, classEx'
 
 # The version info for the project you're documenting, acts as replacement for
