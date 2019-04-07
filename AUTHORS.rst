@@ -1,8 +1,8 @@
 Authors
 -------
 
-* Stefan Grundner
+* Florian Kammermeier
 * Marcus Giamattei
-* Stefan Heid
+
 
 
