@@ -27,7 +27,7 @@ Die direkte Auswertung und graphische Darstellung der Ergebnisse von Experimente
 
 .. toctree::
    :maxdepth: 10
-   :caption: classEx@school Handbuch
+   :caption: classEx@school Dokumentation
 
    Grundsätzliches
    SchülerInnen
