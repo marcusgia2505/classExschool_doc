@@ -46,6 +46,14 @@ SchülerInnen einweisen
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Bevor Sie classEx das erste Mal im Unterricht nutzen, sollten Sie Ihre Schülerinnen und Schüler gut in die Nutzungsweise einweisen und ihnen sagen, wie man sich einloggt und Entscheidungen trifft.
-Eine Vorlage für eine `Powerpoint Präsentation`_ ist verfügbar und kann nach Bedarf angepasst werden.
+
+.. raw:: html
+
+    Eine Vorlage für eine `Powerpoint Präsentation`_ ist verfügbar und kann nach Bedarf angepasst werden.
 
 .. _Powerpoint Präsentation: _static/anleitung.pptx
+
+
+.. raw:: latex
+
+    Eine Vorlage für eine Powerpoint Präsentation ist unter https://classexschool-doc.readthedocs.io/de/latest/_static/anleitung.pptx verfügbar und kann nach Bedarf angepasst werden.
