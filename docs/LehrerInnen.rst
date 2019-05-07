@@ -56,12 +56,12 @@ Mit Drag-and-Drop können Sie die Reihenfolge der Spiele in ihren Verzeichnissen
     :alt:  300px
 
 
-Durch Klicken auf das Mülleimer-Symbol |pic_Muelleimer| können Sie Spiele aus eigenen Verzeichnissen löschen. Das Symbol |pic_Schildchen| bedeutet, dass dieses Spiel von einem anderen Nutzer erstellt wurde und deswegen von Ihnen nicht bearbeitet werden kann. Wenn Sie ein Spiel selbst erstellt haben, können Sie außerdem über ein eigenes Symbol einstellen, ob es öffentlich verfügbar ist. Ein Box-Symbol zeigt, ob ein Spiel öffentlich ist |pic_öffentlich|, d. h. andere Nutzer können dieses Spiel sehen und kopieren, oder ob es privat ist |pic_privat|. Indem Sie auf das Symbol klicken können Sie diese Einstellung ändern. Über "Repository" in der oberen Menüleiste erhalten Sie Zugang zu allen öffentlichen Spielen, die von Ihnen oder anderen Nutzern erstellt wurden.
+Durch Klicken auf das Mülleimer-Symbol |pic_Muelleimer| können Sie Spiele aus eigenen Verzeichnissen löschen. Das Symbol |pic_Schildchen| bedeutet, dass dieses Spiel von einem anderen Nutzer erstellt wurde und deswegen von Ihnen nicht bearbeitet werden kann. Wenn Sie ein Spiel selbst erstellt haben, können Sie außerdem über ein eigenes Symbol einstellen, ob es öffentlich verfügbar ist. Ein Box-Symbol zeigt, ob ein Spiel öffentlich ist |pic_oeffentlich|, d. h. andere Nutzer können dieses Spiel sehen und kopieren, oder ob es privat ist |pic_privat|. Indem Sie auf das Symbol klicken können Sie diese Einstellung ändern. Über "Repository" in der oberen Menüleiste erhalten Sie Zugang zu allen öffentlichen Spielen, die von Ihnen oder anderen Nutzern erstellt wurden.
 
-.. |pic_Mülleimer| image:: _static/Muelleimer.png
+.. |pic_Muelleimer| image:: _static/Muelleimer.png
                             :width: 18px
 
-.. |pic_öffentlich| image:: _static/öffentlich.png
+.. |pic_oeffentlich| image:: _static/oeffentlich.png
                             :width: 20px
 
 .. |pic_privat| image:: _static/privat.png
