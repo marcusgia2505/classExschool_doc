@@ -51,9 +51,9 @@ Bevor Sie classEx das erste Mal im Unterricht nutzen, sollten Sie Ihre Schüleri
 
     Eine Vorlage für eine `Powerpoint Präsentation`_ ist verfügbar und kann nach Bedarf angepasst werden.
 
-.. _Powerpoint Präsentation: _static/anleitung.pptx
-
 
 .. raw:: latex
 
-    Eine Vorlage für eine Powerpoint Präsentation ist unter https://classexschool-doc.readthedocs.io/de/latest/_static/anleitung.pptx verfügbar und kann nach Bedarf angepasst werden.
+    Eine Vorlage für eine Powerpoint Präsentation ist online verfügbar und kann nach Bedarf angepasst werden. Sie finden die Präsentation unter https://classexschool-doc.readthedocs.io/de/latest/_static/anleitung.pptx
+
+.. _Powerpoint Präsentation: _static/anleitung.pptx
