@@ -14,7 +14,7 @@ Was ist classEx@school?
 
 Das Projekt classEx@school arbeitet darauf hin, eine Brücke zwischen klassischen Lehrformen und den Innovationen des virtuellen Lernens zu schlagen.
 
-classEx ist eine Webanwendung mit der SchülerInnen über Smartphones oder Notebooks im Unterricht an interaktiven Experimenten und Umfragen teilnehmen können. LehrerInnen erhalten sofort eine graphische Auswertung und Präsentation ihrer Ergebnisse.
+classEx ist eine Webanwendung mit der SchülerInnen über Smartphones oder Notebooks im Unterricht an interaktiven Experimenten und Umfragen teilnehmen können. LehrerInnen erhalten sofort eine graphische Auswertung und Präsentation ihrer eigenen Ergebnisse.
 
 In interaktiven Experimenten können Schülerinnen und Schüler eigene Entscheidungen treffen und dadurch ökonomische Modelle hautnah erleben und auch zu abstrakten Themen einen einfachen Zugang bekommen. So können beispielsweise die unsichtbare Hand des Marktes, der Konflikt zwischen Eigeninteressen und kollektiven Interessen, das Auftreten von Marktversagen oder die Stabilität ökonomischer Gleichgewichte selbst erlebt werden. Auch können in classEx Quizfragen implementiert werden, mithilfe derer der Lernfortschritt überprüft werden kann.
 
